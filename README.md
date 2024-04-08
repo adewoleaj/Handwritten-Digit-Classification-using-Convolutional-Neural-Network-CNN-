@@ -44,7 +44,7 @@ The implementation of a CNN model with the Adam optimizer, batch normalization, 
 ![Confusion](https://github.com/adewoleaj/Handwritten-Digit-Classification-using-Convolutional-Neural-Network-CNN-/blob/main/confusion%20matric.png?raw=true)
 
 
-For detailed findings and analyses, please refer to the complete report document.
+For detailed findings and analyses, please refer to the complete report document and jupyternote book.
 
 ---
 **Note:** This README serves as a summary of the project. For comprehensive details and analysis, please review the complete report.
