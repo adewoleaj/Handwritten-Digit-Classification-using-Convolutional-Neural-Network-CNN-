@@ -36,6 +36,8 @@ Increasing the number of convolutional layers and optimizing the learning rate c
 ### Case of Overfitting
 Some instances of overfitting are observed during batch normalization. However, the model demonstrates high validation accuracy, indicating robust generalization.
 
+![Loss and accuracy](https://github.com/adewoleaj/Handwritten-Digit-Classification-using-Convolutional-Neural-Network-CNN-/blob/main/loss%20and%20accuracy%20plot.png?raw=true)
+
 ## Conclusion
 The implementation of a CNN model with the Adam optimizer, batch normalization, dropout, and appropriate learning rate optimization results in superior performance in digit classification tasks. Utilizing a CNN architecture with three convolutional layers and early stopping further enhances accuracy and generalization capabilities.
 
