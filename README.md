@@ -21,8 +21,11 @@ pip install tensorflow keras matplotlib numpy
 The project methodology involves preprocessing the MNIST dataset and developing a base CNN model. Various optimization techniques, including different optimizers and regularization methods such as dropout and L1/L2 regularization, are explored. Additionally, the impact of adjusting the CNN architecture's convolutional blocks and learning rates on model performance is investigated. Measures to identify and mitigate overfitting are also implemented.
 
 ## Results and Discussion
+
 ### Optimizer Selection
 An analysis is conducted to determine the optimal optimizer for the CNN model. The Adam optimizer demonstrates superior performance compared to RMSprop and SGD, achieving a high accuracy rate of 98%.
+
+![Optimizers](https://github.com/adewoleaj/Handwritten-Digit-Classification-using-Convolutional-Neural-Network-CNN-/blob/main/performance%20of%20different%20optimizers.png?raw=true)
 
 ### Effect of Regularization Methods
 Different regularization techniques are applied to enhance the model's performance. Increasing the dropout rate and employing early stopping yield improvements, while L1 and L2 regularization show marginal effects on accuracy.
