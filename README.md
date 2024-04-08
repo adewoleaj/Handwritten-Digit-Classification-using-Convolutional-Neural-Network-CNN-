@@ -3,6 +3,8 @@
 ## Introduction
 This repository contains the implementation of a Convolutional Neural Network (CNN) for accurately classifying handwritten digits in the MNIST dataset. The primary objective is to leverage deep learning techniques to achieve high accuracy in digit recognition tasks. The MNIST dataset, a benchmark in the field of machine learning, is accessible through the following URL: [MNIST Dataset](http://yann.lecun.com/exdb/mnist).
 
+![Mint](https://github.com/adewoleaj/Handwritten-Digit-Classification-using-Convolutional-Neural-Network-CNN-/blob/main/mint.png?raw=true)
+
 ## Installation
 To run the code in this repository, you need to have the following libraries installed:
 - TensorFlow
