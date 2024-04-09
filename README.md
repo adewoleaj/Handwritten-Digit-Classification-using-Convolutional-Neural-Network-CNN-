@@ -55,6 +55,6 @@ For detailed findings and analyses, please refer to the complete report document
 
 **_Adewole Adetoro Ajala_**
 
-For any inquiries, please contact: woltoaj@gmail.com / woltoajai@gmail.com
+For any inquiries, please contact: woltoaj@gmail.com / woltoajai@gmail.com / a.ajala-2021@hull.ac.uk
 
 Feel free to contribute or provide feedback!
